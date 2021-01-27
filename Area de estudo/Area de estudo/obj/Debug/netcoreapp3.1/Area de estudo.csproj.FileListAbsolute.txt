@@ -1,0 +1,13 @@
+C:\Users\lprog\OneDrive\Área de Trabalho\Estudos\Area de estudo\Area de estudo\bin\Debug\netcoreapp3.1\Area de estudo.exe
+C:\Users\lprog\OneDrive\Área de Trabalho\Estudos\Area de estudo\Area de estudo\bin\Debug\netcoreapp3.1\Area de estudo.deps.json
+C:\Users\lprog\OneDrive\Área de Trabalho\Estudos\Area de estudo\Area de estudo\bin\Debug\netcoreapp3.1\Area de estudo.runtimeconfig.json
+C:\Users\lprog\OneDrive\Área de Trabalho\Estudos\Area de estudo\Area de estudo\bin\Debug\netcoreapp3.1\Area de estudo.runtimeconfig.dev.json
+C:\Users\lprog\OneDrive\Área de Trabalho\Estudos\Area de estudo\Area de estudo\bin\Debug\netcoreapp3.1\Area de estudo.dll
+C:\Users\lprog\OneDrive\Área de Trabalho\Estudos\Area de estudo\Area de estudo\bin\Debug\netcoreapp3.1\Area de estudo.pdb
+C:\Users\lprog\OneDrive\Área de Trabalho\Estudos\Area de estudo\Area de estudo\obj\Debug\netcoreapp3.1\Area de estudo.csprojAssemblyReference.cache
+C:\Users\lprog\OneDrive\Área de Trabalho\Estudos\Area de estudo\Area de estudo\obj\Debug\netcoreapp3.1\Area de estudo.AssemblyInfoInputs.cache
+C:\Users\lprog\OneDrive\Área de Trabalho\Estudos\Area de estudo\Area de estudo\obj\Debug\netcoreapp3.1\Area de estudo.AssemblyInfo.cs
+C:\Users\lprog\OneDrive\Área de Trabalho\Estudos\Area de estudo\Area de estudo\obj\Debug\netcoreapp3.1\Area de estudo.csproj.CoreCompileInputs.cache
+C:\Users\lprog\OneDrive\Área de Trabalho\Estudos\Area de estudo\Area de estudo\obj\Debug\netcoreapp3.1\Area de estudo.dll
+C:\Users\lprog\OneDrive\Área de Trabalho\Estudos\Area de estudo\Area de estudo\obj\Debug\netcoreapp3.1\Area de estudo.pdb
+C:\Users\lprog\OneDrive\Área de Trabalho\Estudos\Area de estudo\Area de estudo\obj\Debug\netcoreapp3.1\Area de estudo.genruntimeconfig.cache

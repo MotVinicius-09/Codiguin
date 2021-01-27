@@ -1,0 +1,13 @@
+C:\Users\lprog\OneDrive\Área de Trabalho\Estudos\Cardapio\Cardapio\obj\Debug\netcoreapp3.1\Cardapio.csprojAssemblyReference.cache
+C:\Users\lprog\OneDrive\Área de Trabalho\Estudos\Cardapio\Cardapio\obj\Debug\netcoreapp3.1\Cardapio.AssemblyInfoInputs.cache
+C:\Users\lprog\OneDrive\Área de Trabalho\Estudos\Cardapio\Cardapio\obj\Debug\netcoreapp3.1\Cardapio.AssemblyInfo.cs
+C:\Users\lprog\OneDrive\Área de Trabalho\Estudos\Cardapio\Cardapio\obj\Debug\netcoreapp3.1\Cardapio.csproj.CoreCompileInputs.cache
+C:\Users\lprog\OneDrive\Área de Trabalho\Estudos\Cardapio\Cardapio\bin\Debug\netcoreapp3.1\Cardapio.exe
+C:\Users\lprog\OneDrive\Área de Trabalho\Estudos\Cardapio\Cardapio\bin\Debug\netcoreapp3.1\Cardapio.deps.json
+C:\Users\lprog\OneDrive\Área de Trabalho\Estudos\Cardapio\Cardapio\bin\Debug\netcoreapp3.1\Cardapio.runtimeconfig.json
+C:\Users\lprog\OneDrive\Área de Trabalho\Estudos\Cardapio\Cardapio\bin\Debug\netcoreapp3.1\Cardapio.runtimeconfig.dev.json
+C:\Users\lprog\OneDrive\Área de Trabalho\Estudos\Cardapio\Cardapio\bin\Debug\netcoreapp3.1\Cardapio.dll
+C:\Users\lprog\OneDrive\Área de Trabalho\Estudos\Cardapio\Cardapio\bin\Debug\netcoreapp3.1\Cardapio.pdb
+C:\Users\lprog\OneDrive\Área de Trabalho\Estudos\Cardapio\Cardapio\obj\Debug\netcoreapp3.1\Cardapio.dll
+C:\Users\lprog\OneDrive\Área de Trabalho\Estudos\Cardapio\Cardapio\obj\Debug\netcoreapp3.1\Cardapio.pdb
+C:\Users\lprog\OneDrive\Área de Trabalho\Estudos\Cardapio\Cardapio\obj\Debug\netcoreapp3.1\Cardapio.genruntimeconfig.cache

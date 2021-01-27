@@ -1,0 +1,4 @@
+﻿Build started...
+1>------ Build started: Project: Cardapio, Configuration: Debug Any CPU ------
+1>Cardapio -> C:\Users\lprog\OneDrive\Área de Trabalho\Estudos\Cardapio\Cardapio\bin\Debug\netcoreapp3.1\Cardapio.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

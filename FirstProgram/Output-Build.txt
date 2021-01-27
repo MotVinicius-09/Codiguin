@@ -1,0 +1,4 @@
+﻿Build started...
+1>------ Build started: Project: Course, Configuration: Debug Any CPU ------
+1>Course -> C:\Users\lprog\OneDrive\Área de Trabalho\Estudos\Course\Course\bin\Debug\netcoreapp3.1\Course.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
