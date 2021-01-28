@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lprog\\OneDrive\\Área de Trabalho\\Estudos\\Area de estudo\\Area de estudo\\Area de estudo.csproj": {}
+    "C:\\Users\\lprog\\source\\repos\\Area de estudo\\Area de estudo\\Area de estudo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lprog\\OneDrive\\Área de Trabalho\\Estudos\\Area de estudo\\Area de estudo\\Area de estudo.csproj": {
+    "C:\\Users\\lprog\\source\\repos\\Area de estudo\\Area de estudo\\Area de estudo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lprog\\OneDrive\\Área de Trabalho\\Estudos\\Area de estudo\\Area de estudo\\Area de estudo.csproj",
+        "projectUniqueName": "C:\\Users\\lprog\\source\\repos\\Area de estudo\\Area de estudo\\Area de estudo.csproj",
         "projectName": "Area de estudo",
-        "projectPath": "C:\\Users\\lprog\\OneDrive\\Área de Trabalho\\Estudos\\Area de estudo\\Area de estudo\\Area de estudo.csproj",
+        "projectPath": "C:\\Users\\lprog\\source\\repos\\Area de estudo\\Area de estudo\\Area de estudo.csproj",
         "packagesPath": "C:\\Users\\lprog\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lprog\\OneDrive\\Área de Trabalho\\Estudos\\Area de estudo\\Area de estudo\\obj\\",
+        "outputPath": "C:\\Users\\lprog\\source\\repos\\Area de estudo\\Area de estudo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lprog\\AppData\\Roaming\\NuGet\\NuGet.Config",
