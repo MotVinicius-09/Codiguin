@@ -1,0 +1,13 @@
+C:\Users\lprog\source\repos\ConversorDeBinario\ConversorDeBinario\bin\Debug\netcoreapp3.1\ConversorDeBinario.exe
+C:\Users\lprog\source\repos\ConversorDeBinario\ConversorDeBinario\bin\Debug\netcoreapp3.1\ConversorDeBinario.deps.json
+C:\Users\lprog\source\repos\ConversorDeBinario\ConversorDeBinario\bin\Debug\netcoreapp3.1\ConversorDeBinario.runtimeconfig.json
+C:\Users\lprog\source\repos\ConversorDeBinario\ConversorDeBinario\bin\Debug\netcoreapp3.1\ConversorDeBinario.runtimeconfig.dev.json
+C:\Users\lprog\source\repos\ConversorDeBinario\ConversorDeBinario\bin\Debug\netcoreapp3.1\ConversorDeBinario.dll
+C:\Users\lprog\source\repos\ConversorDeBinario\ConversorDeBinario\bin\Debug\netcoreapp3.1\ConversorDeBinario.pdb
+C:\Users\lprog\source\repos\ConversorDeBinario\ConversorDeBinario\obj\Debug\netcoreapp3.1\ConversorDeBinario.csprojAssemblyReference.cache
+C:\Users\lprog\source\repos\ConversorDeBinario\ConversorDeBinario\obj\Debug\netcoreapp3.1\ConversorDeBinario.AssemblyInfoInputs.cache
+C:\Users\lprog\source\repos\ConversorDeBinario\ConversorDeBinario\obj\Debug\netcoreapp3.1\ConversorDeBinario.AssemblyInfo.cs
+C:\Users\lprog\source\repos\ConversorDeBinario\ConversorDeBinario\obj\Debug\netcoreapp3.1\ConversorDeBinario.csproj.CoreCompileInputs.cache
+C:\Users\lprog\source\repos\ConversorDeBinario\ConversorDeBinario\obj\Debug\netcoreapp3.1\ConversorDeBinario.dll
+C:\Users\lprog\source\repos\ConversorDeBinario\ConversorDeBinario\obj\Debug\netcoreapp3.1\ConversorDeBinario.pdb
+C:\Users\lprog\source\repos\ConversorDeBinario\ConversorDeBinario\obj\Debug\netcoreapp3.1\ConversorDeBinario.genruntimeconfig.cache
