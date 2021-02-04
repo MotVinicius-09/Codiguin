@@ -1,0 +1,13 @@
+C:\Users\lprog\source\repos\CadastroDeFuncionario\CadastroDeFuncionario\bin\Debug\netcoreapp3.1\CadastroDeFuncionario.exe
+C:\Users\lprog\source\repos\CadastroDeFuncionario\CadastroDeFuncionario\bin\Debug\netcoreapp3.1\CadastroDeFuncionario.deps.json
+C:\Users\lprog\source\repos\CadastroDeFuncionario\CadastroDeFuncionario\bin\Debug\netcoreapp3.1\CadastroDeFuncionario.runtimeconfig.json
+C:\Users\lprog\source\repos\CadastroDeFuncionario\CadastroDeFuncionario\bin\Debug\netcoreapp3.1\CadastroDeFuncionario.runtimeconfig.dev.json
+C:\Users\lprog\source\repos\CadastroDeFuncionario\CadastroDeFuncionario\bin\Debug\netcoreapp3.1\CadastroDeFuncionario.dll
+C:\Users\lprog\source\repos\CadastroDeFuncionario\CadastroDeFuncionario\bin\Debug\netcoreapp3.1\CadastroDeFuncionario.pdb
+C:\Users\lprog\source\repos\CadastroDeFuncionario\CadastroDeFuncionario\obj\Debug\netcoreapp3.1\CadastroDeFuncionario.csprojAssemblyReference.cache
+C:\Users\lprog\source\repos\CadastroDeFuncionario\CadastroDeFuncionario\obj\Debug\netcoreapp3.1\CadastroDeFuncionario.AssemblyInfoInputs.cache
+C:\Users\lprog\source\repos\CadastroDeFuncionario\CadastroDeFuncionario\obj\Debug\netcoreapp3.1\CadastroDeFuncionario.AssemblyInfo.cs
+C:\Users\lprog\source\repos\CadastroDeFuncionario\CadastroDeFuncionario\obj\Debug\netcoreapp3.1\CadastroDeFuncionario.csproj.CoreCompileInputs.cache
+C:\Users\lprog\source\repos\CadastroDeFuncionario\CadastroDeFuncionario\obj\Debug\netcoreapp3.1\CadastroDeFuncionario.dll
+C:\Users\lprog\source\repos\CadastroDeFuncionario\CadastroDeFuncionario\obj\Debug\netcoreapp3.1\CadastroDeFuncionario.pdb
+C:\Users\lprog\source\repos\CadastroDeFuncionario\CadastroDeFuncionario\obj\Debug\netcoreapp3.1\CadastroDeFuncionario.genruntimeconfig.cache
