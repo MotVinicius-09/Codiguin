@@ -1,0 +1,13 @@
+C:\Users\lprog\source\repos\ListaDeCompras\ListaDeCompras\bin\Debug\netcoreapp3.1\ListaDeCompras.exe
+C:\Users\lprog\source\repos\ListaDeCompras\ListaDeCompras\bin\Debug\netcoreapp3.1\ListaDeCompras.deps.json
+C:\Users\lprog\source\repos\ListaDeCompras\ListaDeCompras\bin\Debug\netcoreapp3.1\ListaDeCompras.runtimeconfig.json
+C:\Users\lprog\source\repos\ListaDeCompras\ListaDeCompras\bin\Debug\netcoreapp3.1\ListaDeCompras.runtimeconfig.dev.json
+C:\Users\lprog\source\repos\ListaDeCompras\ListaDeCompras\bin\Debug\netcoreapp3.1\ListaDeCompras.dll
+C:\Users\lprog\source\repos\ListaDeCompras\ListaDeCompras\bin\Debug\netcoreapp3.1\ListaDeCompras.pdb
+C:\Users\lprog\source\repos\ListaDeCompras\ListaDeCompras\obj\Debug\netcoreapp3.1\ListaDeCompras.csprojAssemblyReference.cache
+C:\Users\lprog\source\repos\ListaDeCompras\ListaDeCompras\obj\Debug\netcoreapp3.1\ListaDeCompras.AssemblyInfoInputs.cache
+C:\Users\lprog\source\repos\ListaDeCompras\ListaDeCompras\obj\Debug\netcoreapp3.1\ListaDeCompras.AssemblyInfo.cs
+C:\Users\lprog\source\repos\ListaDeCompras\ListaDeCompras\obj\Debug\netcoreapp3.1\ListaDeCompras.csproj.CoreCompileInputs.cache
+C:\Users\lprog\source\repos\ListaDeCompras\ListaDeCompras\obj\Debug\netcoreapp3.1\ListaDeCompras.dll
+C:\Users\lprog\source\repos\ListaDeCompras\ListaDeCompras\obj\Debug\netcoreapp3.1\ListaDeCompras.pdb
+C:\Users\lprog\source\repos\ListaDeCompras\ListaDeCompras\obj\Debug\netcoreapp3.1\ListaDeCompras.genruntimeconfig.cache
