@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Globalization;
 
 namespace ListaDeCompras
 {
@@ -8,23 +9,45 @@ namespace ListaDeCompras
         static void Main(string[] args)
         {
             Console.WriteLine("----LISTA-DE-COMPRAS----");
-            Console.Write("Quantos itens você vai levar?: ");
-            int quantItem = int.Parse(Console.ReadLine());
+                Console.Write("Quantos produtos você vai levar?: ");
+                int quantItem = int.Parse(Console.ReadLine());
 
             List<Lista> listaDeCompras = new List<Lista>(quantItem);
-
+            
             
             for(int i = 0; i < quantItem; i++)
             {
+                Random idAleat = new Random();
+                int id = idAleat.Next(100, 999);
+
                 Console.WriteLine();
                 Console.WriteLine("Digite o " + (i + 1)  + "°" +"Item:");
                 Console.Write("Produto: ");
                 string produto = Console.ReadLine();
-
+                
                 Console.Write("Tipo do produto: ");
                 string tipoDoProduto = Console.ReadLine();
 
-                listaDeCompras.Add(new Lista(produto, tipoDoProduto));
+                Console.Write("Quantidade do produto: ");
+                double quantProd = double.Parse(Console.ReadLine());
+                   
+                double preco = 0;
+                switch(tipoDoProduto)
+                {
+                    case "Alimento":
+                        preco = 3.00;
+                        break;
+                    case "Limpeza":
+                        preco = 5.00;
+                        break;
+                    case "Fruta":
+                        preco = 1.00;
+                        break;
+                    case "Bebida":
+                        preco = 2.00;
+                        break;
+                }
+                listaDeCompras.Add(new Lista(produto, tipoDoProduto,id,preco,quantProd));
             }
 
             Console.WriteLine();
@@ -58,9 +81,6 @@ namespace ListaDeCompras
             {
                 Console.WriteLine(p);
             }
-
-
-
         }
     }
 }
