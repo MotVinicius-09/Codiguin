@@ -10,3 +10,4 @@ C:\Users\lprog\source\repos\12Trabalhos\Trabalho 12\obj\Debug\netcoreapp3.1\Trab
 C:\Users\lprog\source\repos\12Trabalhos\Trabalho 12\obj\Debug\netcoreapp3.1\Trabalho 12.dll
 C:\Users\lprog\source\repos\12Trabalhos\Trabalho 12\obj\Debug\netcoreapp3.1\Trabalho 12.pdb
 C:\Users\lprog\source\repos\12Trabalhos\Trabalho 12\obj\Debug\netcoreapp3.1\Trabalho 12.genruntimeconfig.cache
+C:\Users\lprog\source\repos\12Trabalhos\Trabalho 12\obj\Debug\netcoreapp3.1\Trabalho 12.csprojAssemblyReference.cache

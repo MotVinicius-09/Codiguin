@@ -8,20 +8,20 @@ namespace Trabalho_12
     {
         static void Main(string[] args)
         {
-            int numeroAnterior = 0;
-            int numeroAtual = 1;
-            int fibonacci;
+            int fibonacci = 0;
+            int x = 0;
+            int y = 1;
 
-            for(int i = 0; i <= 15; i++)
+            for (int i = 0; i <= 15; i++)
             {
-                fibonacci = numeroAtual + numeroAnterior;
+                fibonacci = x + y;
                 Console.Write(fibonacci);
-                if(15 > i)
+                if (15 > i)
                 {
                     Console.Write(" + ");
                 }
-                numeroAnterior = numeroAtual;
-                numeroAtual = fibonacci;
+                x = y;
+                y = fibonacci;     
             }
         }
     }

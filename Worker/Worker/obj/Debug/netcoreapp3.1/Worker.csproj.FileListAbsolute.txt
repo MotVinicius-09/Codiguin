@@ -1,0 +1,13 @@
+C:\Users\lprog\source\repos\Worker\Worker\bin\Debug\netcoreapp3.1\Worker.exe
+C:\Users\lprog\source\repos\Worker\Worker\bin\Debug\netcoreapp3.1\Worker.deps.json
+C:\Users\lprog\source\repos\Worker\Worker\bin\Debug\netcoreapp3.1\Worker.runtimeconfig.json
+C:\Users\lprog\source\repos\Worker\Worker\bin\Debug\netcoreapp3.1\Worker.runtimeconfig.dev.json
+C:\Users\lprog\source\repos\Worker\Worker\bin\Debug\netcoreapp3.1\Worker.dll
+C:\Users\lprog\source\repos\Worker\Worker\bin\Debug\netcoreapp3.1\Worker.pdb
+C:\Users\lprog\source\repos\Worker\Worker\obj\Debug\netcoreapp3.1\Worker.csprojAssemblyReference.cache
+C:\Users\lprog\source\repos\Worker\Worker\obj\Debug\netcoreapp3.1\Worker.AssemblyInfoInputs.cache
+C:\Users\lprog\source\repos\Worker\Worker\obj\Debug\netcoreapp3.1\Worker.AssemblyInfo.cs
+C:\Users\lprog\source\repos\Worker\Worker\obj\Debug\netcoreapp3.1\Worker.csproj.CoreCompileInputs.cache
+C:\Users\lprog\source\repos\Worker\Worker\obj\Debug\netcoreapp3.1\Worker.dll
+C:\Users\lprog\source\repos\Worker\Worker\obj\Debug\netcoreapp3.1\Worker.pdb
+C:\Users\lprog\source\repos\Worker\Worker\obj\Debug\netcoreapp3.1\Worker.genruntimeconfig.cache
