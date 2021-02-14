@@ -1,0 +1,12 @@
+C:\Users\lprog\source\repos\AtividadeMatriz\AtividadeMatriz\bin\Debug\netcoreapp3.1\AtividadeMatriz.exe
+C:\Users\lprog\source\repos\AtividadeMatriz\AtividadeMatriz\bin\Debug\netcoreapp3.1\AtividadeMatriz.deps.json
+C:\Users\lprog\source\repos\AtividadeMatriz\AtividadeMatriz\bin\Debug\netcoreapp3.1\AtividadeMatriz.runtimeconfig.json
+C:\Users\lprog\source\repos\AtividadeMatriz\AtividadeMatriz\bin\Debug\netcoreapp3.1\AtividadeMatriz.runtimeconfig.dev.json
+C:\Users\lprog\source\repos\AtividadeMatriz\AtividadeMatriz\bin\Debug\netcoreapp3.1\AtividadeMatriz.dll
+C:\Users\lprog\source\repos\AtividadeMatriz\AtividadeMatriz\bin\Debug\netcoreapp3.1\AtividadeMatriz.pdb
+C:\Users\lprog\source\repos\AtividadeMatriz\AtividadeMatriz\obj\Debug\netcoreapp3.1\AtividadeMatriz.AssemblyInfoInputs.cache
+C:\Users\lprog\source\repos\AtividadeMatriz\AtividadeMatriz\obj\Debug\netcoreapp3.1\AtividadeMatriz.AssemblyInfo.cs
+C:\Users\lprog\source\repos\AtividadeMatriz\AtividadeMatriz\obj\Debug\netcoreapp3.1\AtividadeMatriz.csproj.CoreCompileInputs.cache
+C:\Users\lprog\source\repos\AtividadeMatriz\AtividadeMatriz\obj\Debug\netcoreapp3.1\AtividadeMatriz.dll
+C:\Users\lprog\source\repos\AtividadeMatriz\AtividadeMatriz\obj\Debug\netcoreapp3.1\AtividadeMatriz.pdb
+C:\Users\lprog\source\repos\AtividadeMatriz\AtividadeMatriz\obj\Debug\netcoreapp3.1\AtividadeMatriz.genruntimeconfig.cache

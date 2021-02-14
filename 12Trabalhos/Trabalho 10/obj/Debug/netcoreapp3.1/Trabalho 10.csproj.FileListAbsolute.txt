@@ -1,0 +1,13 @@
+C:\Users\lprog\source\repos\12Trabalhos\Trabalho 10\bin\Debug\netcoreapp3.1\Trabalho 10.exe
+C:\Users\lprog\source\repos\12Trabalhos\Trabalho 10\bin\Debug\netcoreapp3.1\Trabalho 10.deps.json
+C:\Users\lprog\source\repos\12Trabalhos\Trabalho 10\bin\Debug\netcoreapp3.1\Trabalho 10.runtimeconfig.json
+C:\Users\lprog\source\repos\12Trabalhos\Trabalho 10\bin\Debug\netcoreapp3.1\Trabalho 10.runtimeconfig.dev.json
+C:\Users\lprog\source\repos\12Trabalhos\Trabalho 10\bin\Debug\netcoreapp3.1\Trabalho 10.dll
+C:\Users\lprog\source\repos\12Trabalhos\Trabalho 10\bin\Debug\netcoreapp3.1\Trabalho 10.pdb
+C:\Users\lprog\source\repos\12Trabalhos\Trabalho 10\obj\Debug\netcoreapp3.1\Trabalho 10.csprojAssemblyReference.cache
+C:\Users\lprog\source\repos\12Trabalhos\Trabalho 10\obj\Debug\netcoreapp3.1\Trabalho 10.AssemblyInfoInputs.cache
+C:\Users\lprog\source\repos\12Trabalhos\Trabalho 10\obj\Debug\netcoreapp3.1\Trabalho 10.AssemblyInfo.cs
+C:\Users\lprog\source\repos\12Trabalhos\Trabalho 10\obj\Debug\netcoreapp3.1\Trabalho 10.csproj.CoreCompileInputs.cache
+C:\Users\lprog\source\repos\12Trabalhos\Trabalho 10\obj\Debug\netcoreapp3.1\Trabalho 10.dll
+C:\Users\lprog\source\repos\12Trabalhos\Trabalho 10\obj\Debug\netcoreapp3.1\Trabalho 10.pdb
+C:\Users\lprog\source\repos\12Trabalhos\Trabalho 10\obj\Debug\netcoreapp3.1\Trabalho 10.genruntimeconfig.cache

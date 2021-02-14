@@ -1,0 +1,13 @@
+C:\Users\lprog\source\repos\ArquivosDeRetorno\ArquivosDeRetorno\bin\Debug\netcoreapp3.1\ArquivosDeRetorno.exe
+C:\Users\lprog\source\repos\ArquivosDeRetorno\ArquivosDeRetorno\bin\Debug\netcoreapp3.1\ArquivosDeRetorno.deps.json
+C:\Users\lprog\source\repos\ArquivosDeRetorno\ArquivosDeRetorno\bin\Debug\netcoreapp3.1\ArquivosDeRetorno.runtimeconfig.json
+C:\Users\lprog\source\repos\ArquivosDeRetorno\ArquivosDeRetorno\bin\Debug\netcoreapp3.1\ArquivosDeRetorno.runtimeconfig.dev.json
+C:\Users\lprog\source\repos\ArquivosDeRetorno\ArquivosDeRetorno\bin\Debug\netcoreapp3.1\ArquivosDeRetorno.dll
+C:\Users\lprog\source\repos\ArquivosDeRetorno\ArquivosDeRetorno\bin\Debug\netcoreapp3.1\ArquivosDeRetorno.pdb
+C:\Users\lprog\source\repos\ArquivosDeRetorno\ArquivosDeRetorno\obj\Debug\netcoreapp3.1\ArquivosDeRetorno.csprojAssemblyReference.cache
+C:\Users\lprog\source\repos\ArquivosDeRetorno\ArquivosDeRetorno\obj\Debug\netcoreapp3.1\ArquivosDeRetorno.AssemblyInfoInputs.cache
+C:\Users\lprog\source\repos\ArquivosDeRetorno\ArquivosDeRetorno\obj\Debug\netcoreapp3.1\ArquivosDeRetorno.AssemblyInfo.cs
+C:\Users\lprog\source\repos\ArquivosDeRetorno\ArquivosDeRetorno\obj\Debug\netcoreapp3.1\ArquivosDeRetorno.csproj.CoreCompileInputs.cache
+C:\Users\lprog\source\repos\ArquivosDeRetorno\ArquivosDeRetorno\obj\Debug\netcoreapp3.1\ArquivosDeRetorno.dll
+C:\Users\lprog\source\repos\ArquivosDeRetorno\ArquivosDeRetorno\obj\Debug\netcoreapp3.1\ArquivosDeRetorno.pdb
+C:\Users\lprog\source\repos\ArquivosDeRetorno\ArquivosDeRetorno\obj\Debug\netcoreapp3.1\ArquivosDeRetorno.genruntimeconfig.cache

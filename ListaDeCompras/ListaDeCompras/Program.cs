@@ -62,17 +62,11 @@ namespace ListaDeCompras
             Console.Clear();
             Console.WriteLine();
             List<Lista> listaAlimentos = listaDeCompras.FindAll(x => x.ClassProduct == "Alimento");
-            Console.WriteLine("----Lista de Alimento----");
+            Console.WriteLine("--Lista de Alimento--");
             foreach (Lista p in listaAlimentos)
             {
-                if (listaAlimentos != null)
-                {
-                    Console.WriteLine(p);
-                }
-                else
-                {
-                    Console.WriteLine();
-                }
+               
+                Console.WriteLine(p);               
             }
 
             Console.WriteLine();
@@ -80,10 +74,9 @@ namespace ListaDeCompras
             Console.WriteLine("--Lista de Bebidas--");
             foreach (Lista p in listaBebidas)
             {
-
                 Console.WriteLine(p);
             }
-
+ 
             Console.WriteLine();
             List<Lista> listaLimpeza = listaDeCompras.FindAll(x => x.ClassProduct == "Limpeza");
             Console.WriteLine("--Lista de Limpeza--");
@@ -94,7 +87,7 @@ namespace ListaDeCompras
 
             Console.WriteLine();
             List<Lista> listaFruta = listaDeCompras.FindAll(x => x.ClassProduct == "Fruta");
-            Console.WriteLine("--Lista de Limpeza--");
+            Console.WriteLine("--Lista de Frutas--");
             foreach (Lista p in listaFruta)
             {
                 Console.WriteLine(p);

@@ -1,0 +1,13 @@
+C:\Users\lprog\source\repos\CriaArquivosMatematicos\CriaArquivosMatematicos\bin\Debug\netcoreapp3.1\CriaArquivosMatematicos.exe
+C:\Users\lprog\source\repos\CriaArquivosMatematicos\CriaArquivosMatematicos\bin\Debug\netcoreapp3.1\CriaArquivosMatematicos.deps.json
+C:\Users\lprog\source\repos\CriaArquivosMatematicos\CriaArquivosMatematicos\bin\Debug\netcoreapp3.1\CriaArquivosMatematicos.runtimeconfig.json
+C:\Users\lprog\source\repos\CriaArquivosMatematicos\CriaArquivosMatematicos\bin\Debug\netcoreapp3.1\CriaArquivosMatematicos.runtimeconfig.dev.json
+C:\Users\lprog\source\repos\CriaArquivosMatematicos\CriaArquivosMatematicos\bin\Debug\netcoreapp3.1\CriaArquivosMatematicos.dll
+C:\Users\lprog\source\repos\CriaArquivosMatematicos\CriaArquivosMatematicos\bin\Debug\netcoreapp3.1\CriaArquivosMatematicos.pdb
+C:\Users\lprog\source\repos\CriaArquivosMatematicos\CriaArquivosMatematicos\obj\Debug\netcoreapp3.1\CriaArquivosMatematicos.csprojAssemblyReference.cache
+C:\Users\lprog\source\repos\CriaArquivosMatematicos\CriaArquivosMatematicos\obj\Debug\netcoreapp3.1\CriaArquivosMatematicos.AssemblyInfoInputs.cache
+C:\Users\lprog\source\repos\CriaArquivosMatematicos\CriaArquivosMatematicos\obj\Debug\netcoreapp3.1\CriaArquivosMatematicos.AssemblyInfo.cs
+C:\Users\lprog\source\repos\CriaArquivosMatematicos\CriaArquivosMatematicos\obj\Debug\netcoreapp3.1\CriaArquivosMatematicos.csproj.CoreCompileInputs.cache
+C:\Users\lprog\source\repos\CriaArquivosMatematicos\CriaArquivosMatematicos\obj\Debug\netcoreapp3.1\CriaArquivosMatematicos.dll
+C:\Users\lprog\source\repos\CriaArquivosMatematicos\CriaArquivosMatematicos\obj\Debug\netcoreapp3.1\CriaArquivosMatematicos.pdb
+C:\Users\lprog\source\repos\CriaArquivosMatematicos\CriaArquivosMatematicos\obj\Debug\netcoreapp3.1\CriaArquivosMatematicos.genruntimeconfig.cache
