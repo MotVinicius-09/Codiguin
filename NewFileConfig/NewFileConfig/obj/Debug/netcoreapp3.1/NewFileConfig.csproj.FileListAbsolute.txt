@@ -1,0 +1,13 @@
+C:\Users\lprog\source\repos\NewFileConfig\NewFileConfig\bin\Debug\netcoreapp3.1\NewFileConfig.exe
+C:\Users\lprog\source\repos\NewFileConfig\NewFileConfig\bin\Debug\netcoreapp3.1\NewFileConfig.deps.json
+C:\Users\lprog\source\repos\NewFileConfig\NewFileConfig\bin\Debug\netcoreapp3.1\NewFileConfig.runtimeconfig.json
+C:\Users\lprog\source\repos\NewFileConfig\NewFileConfig\bin\Debug\netcoreapp3.1\NewFileConfig.runtimeconfig.dev.json
+C:\Users\lprog\source\repos\NewFileConfig\NewFileConfig\bin\Debug\netcoreapp3.1\NewFileConfig.dll
+C:\Users\lprog\source\repos\NewFileConfig\NewFileConfig\bin\Debug\netcoreapp3.1\NewFileConfig.pdb
+C:\Users\lprog\source\repos\NewFileConfig\NewFileConfig\obj\Debug\netcoreapp3.1\NewFileConfig.csprojAssemblyReference.cache
+C:\Users\lprog\source\repos\NewFileConfig\NewFileConfig\obj\Debug\netcoreapp3.1\NewFileConfig.AssemblyInfoInputs.cache
+C:\Users\lprog\source\repos\NewFileConfig\NewFileConfig\obj\Debug\netcoreapp3.1\NewFileConfig.AssemblyInfo.cs
+C:\Users\lprog\source\repos\NewFileConfig\NewFileConfig\obj\Debug\netcoreapp3.1\NewFileConfig.csproj.CoreCompileInputs.cache
+C:\Users\lprog\source\repos\NewFileConfig\NewFileConfig\obj\Debug\netcoreapp3.1\NewFileConfig.dll
+C:\Users\lprog\source\repos\NewFileConfig\NewFileConfig\obj\Debug\netcoreapp3.1\NewFileConfig.pdb
+C:\Users\lprog\source\repos\NewFileConfig\NewFileConfig\obj\Debug\netcoreapp3.1\NewFileConfig.genruntimeconfig.cache

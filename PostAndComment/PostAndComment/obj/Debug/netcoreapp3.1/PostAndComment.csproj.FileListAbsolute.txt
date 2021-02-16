@@ -1,0 +1,13 @@
+C:\Users\lprog\source\repos\PostAndComment\PostAndComment\bin\Debug\netcoreapp3.1\PostAndComment.exe
+C:\Users\lprog\source\repos\PostAndComment\PostAndComment\bin\Debug\netcoreapp3.1\PostAndComment.deps.json
+C:\Users\lprog\source\repos\PostAndComment\PostAndComment\bin\Debug\netcoreapp3.1\PostAndComment.runtimeconfig.json
+C:\Users\lprog\source\repos\PostAndComment\PostAndComment\bin\Debug\netcoreapp3.1\PostAndComment.runtimeconfig.dev.json
+C:\Users\lprog\source\repos\PostAndComment\PostAndComment\bin\Debug\netcoreapp3.1\PostAndComment.dll
+C:\Users\lprog\source\repos\PostAndComment\PostAndComment\bin\Debug\netcoreapp3.1\PostAndComment.pdb
+C:\Users\lprog\source\repos\PostAndComment\PostAndComment\obj\Debug\netcoreapp3.1\PostAndComment.csprojAssemblyReference.cache
+C:\Users\lprog\source\repos\PostAndComment\PostAndComment\obj\Debug\netcoreapp3.1\PostAndComment.AssemblyInfoInputs.cache
+C:\Users\lprog\source\repos\PostAndComment\PostAndComment\obj\Debug\netcoreapp3.1\PostAndComment.AssemblyInfo.cs
+C:\Users\lprog\source\repos\PostAndComment\PostAndComment\obj\Debug\netcoreapp3.1\PostAndComment.csproj.CoreCompileInputs.cache
+C:\Users\lprog\source\repos\PostAndComment\PostAndComment\obj\Debug\netcoreapp3.1\PostAndComment.dll
+C:\Users\lprog\source\repos\PostAndComment\PostAndComment\obj\Debug\netcoreapp3.1\PostAndComment.pdb
+C:\Users\lprog\source\repos\PostAndComment\PostAndComment\obj\Debug\netcoreapp3.1\PostAndComment.genruntimeconfig.cache
