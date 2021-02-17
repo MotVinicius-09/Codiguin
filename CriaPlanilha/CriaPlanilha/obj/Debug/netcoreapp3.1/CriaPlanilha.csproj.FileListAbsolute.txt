@@ -1,0 +1,4 @@
+C:\Users\lprog\source\repos\CriaPlanilha\CriaPlanilha\obj\Debug\netcoreapp3.1\CriaPlanilha.csprojAssemblyReference.cache
+C:\Users\lprog\source\repos\CriaPlanilha\CriaPlanilha\obj\Debug\netcoreapp3.1\CriaPlanilha.AssemblyInfoInputs.cache
+C:\Users\lprog\source\repos\CriaPlanilha\CriaPlanilha\obj\Debug\netcoreapp3.1\CriaPlanilha.AssemblyInfo.cs
+C:\Users\lprog\source\repos\CriaPlanilha\CriaPlanilha\obj\Debug\netcoreapp3.1\CriaPlanilha.csproj.CoreCompileInputs.cache
