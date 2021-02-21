@@ -1,0 +1,13 @@
+C:\Users\lprog\source\repos\ControlProduct\ControlProduct\bin\Debug\netcoreapp3.1\ControlProduct.exe
+C:\Users\lprog\source\repos\ControlProduct\ControlProduct\bin\Debug\netcoreapp3.1\ControlProduct.deps.json
+C:\Users\lprog\source\repos\ControlProduct\ControlProduct\bin\Debug\netcoreapp3.1\ControlProduct.runtimeconfig.json
+C:\Users\lprog\source\repos\ControlProduct\ControlProduct\bin\Debug\netcoreapp3.1\ControlProduct.runtimeconfig.dev.json
+C:\Users\lprog\source\repos\ControlProduct\ControlProduct\bin\Debug\netcoreapp3.1\ControlProduct.dll
+C:\Users\lprog\source\repos\ControlProduct\ControlProduct\bin\Debug\netcoreapp3.1\ControlProduct.pdb
+C:\Users\lprog\source\repos\ControlProduct\ControlProduct\obj\Debug\netcoreapp3.1\ControlProduct.csprojAssemblyReference.cache
+C:\Users\lprog\source\repos\ControlProduct\ControlProduct\obj\Debug\netcoreapp3.1\ControlProduct.AssemblyInfoInputs.cache
+C:\Users\lprog\source\repos\ControlProduct\ControlProduct\obj\Debug\netcoreapp3.1\ControlProduct.AssemblyInfo.cs
+C:\Users\lprog\source\repos\ControlProduct\ControlProduct\obj\Debug\netcoreapp3.1\ControlProduct.csproj.CoreCompileInputs.cache
+C:\Users\lprog\source\repos\ControlProduct\ControlProduct\obj\Debug\netcoreapp3.1\ControlProduct.dll
+C:\Users\lprog\source\repos\ControlProduct\ControlProduct\obj\Debug\netcoreapp3.1\ControlProduct.pdb
+C:\Users\lprog\source\repos\ControlProduct\ControlProduct\obj\Debug\netcoreapp3.1\ControlProduct.genruntimeconfig.cache

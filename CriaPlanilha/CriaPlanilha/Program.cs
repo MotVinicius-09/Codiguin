@@ -8,8 +8,8 @@ namespace CriaRelatorio
     {
         static void Main(string[] args)
         {
-            string path = @"C:\Users\vinicius.STLSEND\Desktop\lk\CSharp\estudos\HouseOfTheTest";
-            string reportFile = @"C:\Users\vinicius.STLSEND\Desktop\lk\CSharp\estudos\HouseOfTheTest\reportFile.txt";
+            string path = @"C:\HouseOfTheTest";
+            string reportFile = @"C:\HouseOfTheTest\reportFile.txt";
 
             string[] files = Directory.GetFiles(path);
             List<string> lines = new List<string>();
@@ -33,31 +33,60 @@ namespace CriaRelatorio
                     }
                 }
             }
-            string[] fileName = new string[lines.Count];
-            string[] os = new string[lines.Count];
-            string[] fileNum = new string[lines.Count];
-            DateTime dateNow = DateTime.Now;
+
             string[] infos = new string[lines.Count];
+            string[] fileName = new string[infos.Length];
+            int[] os = new int[infos.Length];
+            int[] fileQuant = new int[infos.Length];
+            DateTime dateNow = DateTime.Now;
             lines.CopyTo(infos);
-    
-      for (int i = 0; i < infos.Length; i++)
+
+            int sumFile = 0;
+            for (int i = 0; i < infos.Length; i++)
             {
-                fileName[i] = infos[i].Substring(0, infos[i].ToUpper().IndexOf(".TXT"));
-                os[i] = infos[i].Substring(infos[i].IndexOf("-2021") + 6);
-                fileNum[i] = infos[i].Substring(infos[i].ToUpper().IndexOf(".TXT") + 5, infos[i].ToUpper().IndexOf(".TXT") + 9);
+                string fileLine = infos[i];
+                string[] arqLine = fileLine.Split(';');
+                string file = arqLine[0];
+                int quant = int.Parse(arqLine[1]);
+                int osLine = int.Parse(arqLine[3]);
+                fileName[i] = file;
+                fileQuant[i] = quant;
+                sumFile += fileQuant[i];
+                os[i] = osLine;
+                Array.Clear(arqLine, 0, arqLine.Length);
             }
 
+            int contPag = 1;
+            int cont = 0;
+            int totalPags = infos.Length / 15 + 1;
             using (StreamWriter line = File.CreateText(reportFile))
             {
-                line.WriteLine("RELAÇÃO DE ARQUIVOS                                  PAG:01                 DATA:" + dateNow.ToString("dd/MM/yyyy"));
-                line.WriteLine("-------------------------------------------------------------------------------------------");
-                line.WriteLine("NOME DO ARQUIVO                                      O.S                         QUANTIDADE");
-                for (int i = 0; i < infos.Length; i++)
+
+                while (contPag <= totalPags)
                 {
-                    line.WriteLine(fileName[i].PadLeft(5) + os[i].PadLeft(31).PadRight(20) + fileNum[i]);
+                    line.WriteLine("RELAÇÃO DE ARQUIVOS                                                  PAG:{0}                                                 DATA:" + dateNow.ToString("dd/MM/yyyy"), contPag);
+                    line.WriteLine("------------------------------------------------------------------------------------------------------------------------------------------");
+                    line.WriteLine("NOME DO ARQUIVO                                                               O.S                                             QUANTIDADE");
+                    contPag++;
+                    int contLin = 0;
+                    while (cont < infos.Length)
+                    {
+                        line.WriteLine("{0}                     {1,22:D7}                               {2,22:D10}",fileName[cont].Length <= 40 ?fileName[cont].PadRight(40,' ') : fileName[cont].Substring(0,40),os[cont],fileQuant[cont]);
+                        cont++;
+                        contLin++;
+                        if (contLin == 15)
+                        {
+                            break;
+                        }
+                    }
+                    line.WriteLine("");
+                    line.WriteLine("");
+                    line.WriteLine("");
+                    line.WriteLine("");
+                    line.WriteLine("");
                 }
-                line.WriteLine("-------------------------------------------------------------------------------------------");
-                line.WriteLine("TOTAL DE DOCUMENTOS                                                                      {0}", lines.Count);
+                line.WriteLine("------------------------------------------------------------------------------------------------------------------------------------------");
+                line.WriteLine("TOTAL DE DOCUMENTOS:                                                                                                                  {0}", sumFile);
                 line.Close();
             }
         }

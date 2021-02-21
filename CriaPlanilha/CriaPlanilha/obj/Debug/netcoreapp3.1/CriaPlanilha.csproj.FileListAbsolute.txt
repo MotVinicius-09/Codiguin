@@ -2,3 +2,12 @@ C:\Users\lprog\source\repos\CriaPlanilha\CriaPlanilha\obj\Debug\netcoreapp3.1\Cr
 C:\Users\lprog\source\repos\CriaPlanilha\CriaPlanilha\obj\Debug\netcoreapp3.1\CriaPlanilha.AssemblyInfoInputs.cache
 C:\Users\lprog\source\repos\CriaPlanilha\CriaPlanilha\obj\Debug\netcoreapp3.1\CriaPlanilha.AssemblyInfo.cs
 C:\Users\lprog\source\repos\CriaPlanilha\CriaPlanilha\obj\Debug\netcoreapp3.1\CriaPlanilha.csproj.CoreCompileInputs.cache
+C:\Users\lprog\source\repos\CriaPlanilha\CriaPlanilha\bin\Debug\netcoreapp3.1\CriaPlanilha.exe
+C:\Users\lprog\source\repos\CriaPlanilha\CriaPlanilha\bin\Debug\netcoreapp3.1\CriaPlanilha.deps.json
+C:\Users\lprog\source\repos\CriaPlanilha\CriaPlanilha\bin\Debug\netcoreapp3.1\CriaPlanilha.runtimeconfig.json
+C:\Users\lprog\source\repos\CriaPlanilha\CriaPlanilha\bin\Debug\netcoreapp3.1\CriaPlanilha.runtimeconfig.dev.json
+C:\Users\lprog\source\repos\CriaPlanilha\CriaPlanilha\bin\Debug\netcoreapp3.1\CriaPlanilha.dll
+C:\Users\lprog\source\repos\CriaPlanilha\CriaPlanilha\bin\Debug\netcoreapp3.1\CriaPlanilha.pdb
+C:\Users\lprog\source\repos\CriaPlanilha\CriaPlanilha\obj\Debug\netcoreapp3.1\CriaPlanilha.dll
+C:\Users\lprog\source\repos\CriaPlanilha\CriaPlanilha\obj\Debug\netcoreapp3.1\CriaPlanilha.pdb
+C:\Users\lprog\source\repos\CriaPlanilha\CriaPlanilha\obj\Debug\netcoreapp3.1\CriaPlanilha.genruntimeconfig.cache

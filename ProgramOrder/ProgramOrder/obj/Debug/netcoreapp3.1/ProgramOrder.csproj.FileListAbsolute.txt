@@ -1,0 +1,13 @@
+C:\Users\lprog\source\repos\ProgramOrder\ProgramOrder\bin\Debug\netcoreapp3.1\ProgramOrder.exe
+C:\Users\lprog\source\repos\ProgramOrder\ProgramOrder\bin\Debug\netcoreapp3.1\ProgramOrder.deps.json
+C:\Users\lprog\source\repos\ProgramOrder\ProgramOrder\bin\Debug\netcoreapp3.1\ProgramOrder.runtimeconfig.json
+C:\Users\lprog\source\repos\ProgramOrder\ProgramOrder\bin\Debug\netcoreapp3.1\ProgramOrder.runtimeconfig.dev.json
+C:\Users\lprog\source\repos\ProgramOrder\ProgramOrder\bin\Debug\netcoreapp3.1\ProgramOrder.dll
+C:\Users\lprog\source\repos\ProgramOrder\ProgramOrder\bin\Debug\netcoreapp3.1\ProgramOrder.pdb
+C:\Users\lprog\source\repos\ProgramOrder\ProgramOrder\obj\Debug\netcoreapp3.1\ProgramOrder.csprojAssemblyReference.cache
+C:\Users\lprog\source\repos\ProgramOrder\ProgramOrder\obj\Debug\netcoreapp3.1\ProgramOrder.AssemblyInfoInputs.cache
+C:\Users\lprog\source\repos\ProgramOrder\ProgramOrder\obj\Debug\netcoreapp3.1\ProgramOrder.AssemblyInfo.cs
+C:\Users\lprog\source\repos\ProgramOrder\ProgramOrder\obj\Debug\netcoreapp3.1\ProgramOrder.csproj.CoreCompileInputs.cache
+C:\Users\lprog\source\repos\ProgramOrder\ProgramOrder\obj\Debug\netcoreapp3.1\ProgramOrder.dll
+C:\Users\lprog\source\repos\ProgramOrder\ProgramOrder\obj\Debug\netcoreapp3.1\ProgramOrder.pdb
+C:\Users\lprog\source\repos\ProgramOrder\ProgramOrder\obj\Debug\netcoreapp3.1\ProgramOrder.genruntimeconfig.cache

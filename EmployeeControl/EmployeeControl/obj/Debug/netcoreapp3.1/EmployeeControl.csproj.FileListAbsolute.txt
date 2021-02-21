@@ -1,0 +1,13 @@
+C:\Users\lprog\source\repos\EmployeeControl\EmployeeControl\bin\Debug\netcoreapp3.1\EmployeeControl.exe
+C:\Users\lprog\source\repos\EmployeeControl\EmployeeControl\bin\Debug\netcoreapp3.1\EmployeeControl.deps.json
+C:\Users\lprog\source\repos\EmployeeControl\EmployeeControl\bin\Debug\netcoreapp3.1\EmployeeControl.runtimeconfig.json
+C:\Users\lprog\source\repos\EmployeeControl\EmployeeControl\bin\Debug\netcoreapp3.1\EmployeeControl.runtimeconfig.dev.json
+C:\Users\lprog\source\repos\EmployeeControl\EmployeeControl\bin\Debug\netcoreapp3.1\EmployeeControl.dll
+C:\Users\lprog\source\repos\EmployeeControl\EmployeeControl\bin\Debug\netcoreapp3.1\EmployeeControl.pdb
+C:\Users\lprog\source\repos\EmployeeControl\EmployeeControl\obj\Debug\netcoreapp3.1\EmployeeControl.csprojAssemblyReference.cache
+C:\Users\lprog\source\repos\EmployeeControl\EmployeeControl\obj\Debug\netcoreapp3.1\EmployeeControl.AssemblyInfoInputs.cache
+C:\Users\lprog\source\repos\EmployeeControl\EmployeeControl\obj\Debug\netcoreapp3.1\EmployeeControl.AssemblyInfo.cs
+C:\Users\lprog\source\repos\EmployeeControl\EmployeeControl\obj\Debug\netcoreapp3.1\EmployeeControl.csproj.CoreCompileInputs.cache
+C:\Users\lprog\source\repos\EmployeeControl\EmployeeControl\obj\Debug\netcoreapp3.1\EmployeeControl.dll
+C:\Users\lprog\source\repos\EmployeeControl\EmployeeControl\obj\Debug\netcoreapp3.1\EmployeeControl.pdb
+C:\Users\lprog\source\repos\EmployeeControl\EmployeeControl\obj\Debug\netcoreapp3.1\EmployeeControl.genruntimeconfig.cache
